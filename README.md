@@ -27,7 +27,7 @@ The dataset contains details of over 11,000 athletes, with 47 disciplines, along
 It contains the details of the Athletes, Coaches, Teams participating as well as the Entries by gender. It contains their names, countries represented, discipline, gender of competitors, name of the coaches and medals(gold, silver, bronze) won.
 
 File: 
-1. Athletes.xlsx:
+1. Athletes.csv:
    
    Columns:
    
@@ -37,7 +37,7 @@ File:
    
      c.  Discipline(Rowing, Archery, etc.)
 
-2. Coaches.xlsx:
+2. Coaches.csv:
 
    Columns:
    
@@ -49,7 +49,7 @@ File:
 
      d.  Event(Men, Women, Duet, Team etc.)
 
-3. EntriesGender.xlsx:
+3. EntriesGender.csv:
 
    Columns:
 
@@ -61,7 +61,7 @@ File:
 
      d.  Total
 
-4. Medals.xlsx
+4. Medals.csv
 
    Columns:
 
@@ -80,7 +80,7 @@ File:
      g.  Rank by Total
 
 
-5. Teams.xlsx
+5. Teams.csv
 
    Columns:
 
@@ -91,6 +91,8 @@ File:
      c.  Country
 
      d.  Event
+
+
 
 
      
