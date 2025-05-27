@@ -1,3 +1,5 @@
+### Objective: To learn and use various services of Azure.
+
 # Data-Engineering-Project-Guided
 Olympic Data Analytics
 
@@ -105,7 +107,9 @@ File:
    3. Applied necessary transformation like changing the data type in certain csv files like EntriesGender.
    4. Wrote/ saved the transformed datasets into the transformed data container.
   
-5. Data Analysis using Azure Synapse Analytics
+5. Data Analysis using Azure Synapse Analytics:
+   1. Created the resource.
+   2. 
    
    
       
