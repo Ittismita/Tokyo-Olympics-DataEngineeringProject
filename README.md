@@ -84,7 +84,8 @@ File:
    
    Pipeline -
    Source(Github Repo){For each URL of the raw data -> created a HTTP linked service} -> Sink(Azure Data Lake storage Gen2)
-4. Transforming data using databricks:
+   ![DataFactory](https://github.com/Ittismita/Tokyo-Olympics-DataEngineeringProject/blob/main/DataFactory.png)
+5. Transforming data using databricks:
             - Created Azure Databricks workspace for the resource group.
             - For using Apache Spark - created compute.
             - Data factory was mounted onto the Databricks workspace - 
@@ -105,7 +106,7 @@ File:
    3. Applied necessary transformation like changing the data type in certain csv files like EntriesGender.
    4. Wrote/ saved the transformed datasets into the transformed data container.
   
-5. Data Analysis using Azure Synapse Analytics:
+6. Data Analysis using Azure Synapse Analytics:
    1. Created the resource.
    2. Created database and tables.
    3. Performed EDA using SQL queries.
