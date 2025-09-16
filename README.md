@@ -1,6 +1,6 @@
 ### Objective: To learn and use various services of Azure.
 
-# Data-Engineering-Project-Guided
+# Data-Engineering-Project
 Olympic Data Analytics
 
 Using Azure Cloud Services
